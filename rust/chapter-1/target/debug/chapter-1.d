@@ -1,0 +1,1 @@
+C:\Users\delta\Projects\cracking-coding\rust\chapter-1\target\debug\chapter-1.exe: C:\Users\delta\Projects\cracking-coding\rust\chapter-1\src\is_unique.rs C:\Users\delta\Projects\cracking-coding\rust\chapter-1\src\main.rs
