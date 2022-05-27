@@ -2,10 +2,12 @@
 
 use std::io;
 mod is_unique;
+mod check_permutations;
 
 // Selects and runs solutions
 fn main() {
-    let solution = is_unique::main(get_input_string());
+    // let solution = is_unique::main(get_input_string());
+    let solution = check_permutations::main(get_input_string(), get_input_string());
     println!("{}", solution);
 }
 
